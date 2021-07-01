@@ -9,7 +9,7 @@ All the code is authored by Jianzhe Zhen.
 The folder contains the following script files with described function:
 
 Robust_Sensor.m
-This function computes the prosposed approximation scheme using linear decision rules.
+This function computes the proposed approximation scheme using linear decision rules.
 
 diabete.m
 This .m file is obtained the data for the robust regression numerical experiments.
